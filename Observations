@@ -1,3 +1,8 @@
+Le script suivant est fonctionnel pour:
+-assurer la connexion de PC1 à PC2
+-créer, renommer, supprimer des répertoires
+
+
 import ftplib as FTP
 from ftplib import FTP
 from getpass import getpass
